@@ -80,7 +80,7 @@ A warm, gamified AI education platform for K-12 students that adapts content, te
 ## Project Structure
 
 ```
-AI-Powered-Personalized-Learning-OS/
+learnos-ai/
 ├── CLAUDE.md                           # Agent quick-reference (this design lives in docs/SYSTEM_DESIGN.md)
 │
 ├── backend/                            # Python FastAPI backend

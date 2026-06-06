@@ -224,7 +224,7 @@ Onboarding Curriculum Teaching   Voice    Sentiment  Activities
 ## Project Structure
 
 ```
-AI-Powered-Personalized-Learning-OS/
+learnos-ai/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py                    # FastAPI app, CORS, lifespan
@@ -316,8 +316,8 @@ AI-Powered-Personalized-Learning-OS/
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/Vishal-ml-ds/AI-Powered-Personalized-Learning-OS.git
-cd AI-Powered-Personalized-Learning-OS
+git clone https://github.com/Vishal-ml-ds/learnos-ai.git
+cd learnos-ai
 ```
 
 Copy and fill in the environment files (see [Environment Variables](#environment-variables)):

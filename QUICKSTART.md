@@ -22,7 +22,7 @@ Get the AI-powered personalized learning platform running locally in **15 minute
 ```bash
 # Clone the repository
 git clone <repo-url>
-cd "AI-Powered-Personalized-Learning-OS"
+cd "learnos-ai"
 
 # Create backend virtual environment
 cd backend
@@ -208,7 +208,7 @@ Frontend (Next.js, React)          Backend (FastAPI)           AI Services
 
 ## Support
 
-- **Bugs?** Check [GitHub Issues](https://github.com/Vishal-ml-ds/AI-Powered-Personalized-Learning-OS/issues)
+- **Bugs?** Check [GitHub Issues](https://github.com/Vishal-ml-ds/learnos-ai/issues)
 - **Questions?** See [docs/SYSTEM_DESIGN.md](docs/SYSTEM_DESIGN.md) for architecture details
 - **API docs?** Open http://localhost:8000/docs (Swagger UI)
 

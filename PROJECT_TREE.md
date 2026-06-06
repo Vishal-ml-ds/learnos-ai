@@ -11,7 +11,7 @@ LearnOS is an AI-powered personalized K-12 learning platform combining FastAPI b
 ## Directory Structure
 
 ```
-AI-Powered-Personalized-Learning-OS/
+learnos-ai/
 ├── CLAUDE.md                           # Agent quick-reference (full design in docs/SYSTEM_DESIGN.md)
 ├── QUICKSTART.md                       # 15-minute setup guide
 ├── PROJECT_TREE.md                     # This file — project structure reference
